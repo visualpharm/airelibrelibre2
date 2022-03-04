@@ -1,5 +1,5 @@
 # Site settings
-title:
+title: Aire Libre
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -14,15 +14,15 @@ email:
 facebook_username:
 twitter_username:
 github_username:
-address:
+address: Quebracho y Charata, Cariló
   - line:
   - line:
   # Feel free to add more lines here 
 telephone:
-copyright:
+copyright: Jennifer y Iván, los vecinos
 
 # API settings
-google_api_key:
+google_api_key: AIzaSyBuriLYUNkxV_gM8NysGHZLyCe71uGDoVA
 
 # Build settings
 markdown: kramdown
