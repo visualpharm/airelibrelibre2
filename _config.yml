@@ -1,5 +1,5 @@
 # Site settings
-title: Aire Libre
+title: Aire Libre, un gimnasio libre en Cariló
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Publico y gratuito gimnasio al aire libre en Cariló. Esta abierto 24 horas y esta ubicado en Quebracho y Charata. Construido y mantenido por los vecinos.
@@ -12,7 +12,8 @@ email:
 facebook_username:
 twitter_username:
 github_username:
-address: Quebracho y Charata, Cariló
+address: 
+  Quebracho y Charata, Cariló
   #  - line:
   #  - line:
   # Feel free to add more lines here 
@@ -20,7 +21,7 @@ telephone:
 copyright: Jennifer y Iván, los vecinos
 
 # API settings
-google_api_key: AIzaSyBuriLYUNkxV_gM8NysGHZLyCe71uGDoVA
+google_api_key: AIzaSyBePbCnrA1xIgzCZGDUUgwaGlyFWOBvOFk
 
 # Build settings
 markdown: kramdown
