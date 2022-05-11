@@ -22,9 +22,9 @@
   }
 
 
-#portfolio {
+/*#portfolio {
     margin-top: -90px;
-}  
+} */ 
 
 h3 {
         line-height: 140%;    
@@ -203,7 +203,7 @@ hr.small {
 /* About */
 
 .about {
-    padding: 50px 0;
+    padding: 50px 0 0 0;
 }
 
 /* Services */
