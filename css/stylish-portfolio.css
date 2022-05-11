@@ -202,6 +202,11 @@ hr.small {
 
 /* About */
 
+iframe[src*=youtube]
+{
+  max-width:100%;
+}
+
 .about {
     padding: 50px 0 0 0;
 }
